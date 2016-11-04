@@ -1,3 +1,5 @@
+// DATATYPES
+
 main() {
   print("Hello, " + "I am Lukas."); // String
   print(23); // Int
